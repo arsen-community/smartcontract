@@ -23,4 +23,4 @@ Liquidity Fee : 5%
 
 max Tx Amount : 500,000,000,000 (500B)
 
-Token Sell To Add Liquidity: 1,000,000,000 (1B)
+Automatic Add Liquidity: 1,000,000,000 (1B)
